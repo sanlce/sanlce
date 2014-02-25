@@ -1,0 +1,29 @@
+#surefire
+#Wed Feb 05 11:08:11 ICT 2014
+testClassesDirectory=C\:\\cygwin\\home\\all user\\game01\\assets\\target\\test-classes
+classPathUrl.3=c\:\\dev\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.2=c\:\\dev\\.m2\\repository\\junit\\junit\\4.11\\junit-4.11.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\cygwin\\home\\all user\\game01\\assets\\target\\classes
+reportsDirectory=C\:\\cygwin\\home\\all user\\game01\\assets\\target\\surefire-reports
+classPathUrl.0=C\:\\cygwin\\home\\all user\\game01\\assets\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\cygwin\\home\\all user\\game01\\assets\\src\\test\\java
+surefireClassPathUrl.1=c\:\\dev\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.2\\surefire-api-2.7.2.jar
+surefireClassPathUrl.0=c\:\\dev\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.7.2\\surefire-junit4-2.7.2.jar
+runOrder=filesystem
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=C\:\\cygwin\\home\\all user\\game01\\assets\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false

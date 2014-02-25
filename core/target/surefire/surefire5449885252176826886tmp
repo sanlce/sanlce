@@ -1,0 +1,35 @@
+#surefire
+#Wed Feb 05 11:13:31 ICT 2014
+testClassesDirectory=C\:\\cygwin\\home\\all user\\game01\\core\\target\\test-classes
+classPathUrl.4=c\:\\dev\\.m2\\repository\\com\\threerings\\tripleplay\\1.8\\tripleplay-1.8.jar
+classPathUrl.3=c\:\\dev\\.m2\\repository\\com\\samskivert\\pythagoras\\1.3.2\\pythagoras-1.3.2.jar
+classPathUrl.2=c\:\\dev\\.m2\\repository\\com\\googlecode\\playn\\playn-core\\1.8\\playn-core-1.8.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\cygwin\\home\\all user\\game01\\core\\target\\classes
+reportsDirectory=C\:\\cygwin\\home\\all user\\game01\\core\\target\\surefire-reports
+classPathUrl.0=C\:\\cygwin\\home\\all user\\game01\\core\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\cygwin\\home\\all user\\game01\\core\\src\\test\\java
+surefireClassPathUrl.1=c\:\\dev\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.2\\surefire-api-2.7.2.jar
+surefireClassPathUrl.0=c\:\\dev\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.7.2\\surefire-junit4-2.7.2.jar
+runOrder=filesystem
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=C\:\\cygwin\\home\\all user\\game01\\core\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.9=c\:\\dev\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.8=c\:\\dev\\.m2\\repository\\junit\\junit\\4.11\\junit-4.11.jar
+classPathUrl.7=c\:\\dev\\.m2\\repository\\org\\slf4j\\slf4j-api\\1.6.4\\slf4j-api-1.6.4.jar
+childDelegation=false
+classPathUrl.6=c\:\\dev\\.m2\\repository\\org\\jbox2d\\jbox2d-library\\2.1.2.3\\jbox2d-library-2.1.2.3.jar
+classPathUrl.5=c\:\\dev\\.m2\\repository\\com\\threerings\\react\\1.4.1\\react-1.4.1.jar
